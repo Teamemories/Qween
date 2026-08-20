@@ -10,7 +10,9 @@ It should be classified as a scientific experiment rather than a commercial prod
 > [**`How to install`**](https://github.com/Teamemories/Cody/releases/tag/ed260604)
 
 
-# 🔆 What's News [20 August 2026]
+# 🔆 What's News
+
+> [**20 August 2026**]
 
 🎉 OpenCode & OpenClaw are now supported!
 
