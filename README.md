@@ -1,4 +1,6 @@
-# <img src="https://github.com/Teamemories/Qween/blob/main/logo.svg" style="width: 150px; height: 150px; border-radius: 50px;" /> Qween [![CodeQL](https://github.com/Teamemories/Cody/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Teamemories/Cody/actions/workflows/github-code-scanning/codeql)
+# <img src="https://github.com/Teamemories/Qween/blob/main/logo.svg" style="width: 150px; height: 150px; border-radius: 50px;" /> Qween
+
+[![CodeQL](https://github.com/Teamemories/Cody/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Teamemories/Cody/actions/workflows/github-code-scanning/codeql)
 
 > `Edition 261020`
 
