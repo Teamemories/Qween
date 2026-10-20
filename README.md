@@ -11,7 +11,7 @@ It should be classified as a scientific experiment rather than a commercial prod
 
 > [**`How to install`**](https://github.com/Teamemories/Qween/releases/tag/ed260604)
 
-# ❇️ Qween Version History
+# ❇️ Qween Edition History
 
 - [x] [**20 October 2026**]: ⚙️ Optimize model and fix som issue.
 *
