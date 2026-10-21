@@ -13,7 +13,7 @@ It should be classified as a scientific experiment rather than a commercial prod
 
 # ❇️ Qween Edition History
 
-- [x] [**20 October 2026**]: ⚙️ Optimize model and fix som issue.
+- [x] [**20 October 2026**]: ⚙️ Optimize model and fix some issues.
 *
 - [x] [**20 August 2026**]: 🎉 OpenCode & OpenClaw are now supported!
 *
