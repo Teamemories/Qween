@@ -9,7 +9,9 @@ Qween is a lightweight model wrapper implemented as an experimental configuratio
 This system is designated strictly for educational and research applications at the student level.
 It should be classified as a scientific experiment rather than a commercial product or an official release.
 
-```ollama pull cmd_er/Qween```
+```cmd
+ollama pull cmd_er/Qween
+```
 
 # ❇️ Qween Edition History
 
